@@ -4,8 +4,8 @@ RAMDisk-Xcode
 Put your Browser and Xcode caches into RamDisk.
 
 <h1>Usage in terminal:</h1>
-chmod +x mountdisk.command
-./mountdisk.command
++ chmod +x mountdisk.command
++ ./mountdisk.command
 
 <h1>Note:</h1>
 How to calculate ramdisk size:
